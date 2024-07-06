@@ -10,6 +10,9 @@
 
 Some people have problems creating ropes, and also noticed that there are no normal video tutorials. So I decided to create my own rope. It is certainly not perfect, you will have to develop it further yourself :3 
 
+## GIF
+![Unity_zzYKuj6iAq](https://github.com/CreatNatoy/Rope-2D/assets/76531899/7e4cfdbb-2f3a-4ad0-8a7c-d54492d2d693)
+
 ## Setup 
 
 Warning. See which objects have components  
@@ -19,6 +22,3 @@ You need to create a new physics layer.
 ![image](https://github.com/CreatNatoy/Rope-2D/assets/76531899/0be5059d-4a9e-4880-97ed-52248d0c9eec)
 And the physics layer add to Rope Objects. 
 ![image](https://github.com/CreatNatoy/Rope-2D/assets/76531899/043609a6-2895-4324-8528-a9e2daf62f45)
-
-## GIF
-![Unity_zzYKuj6iAq](https://github.com/CreatNatoy/Rope-2D/assets/76531899/7e4cfdbb-2f3a-4ad0-8a7c-d54492d2d693)
